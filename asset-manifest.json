@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/sumitsaurav143/todolist.git/static/css/main.e10241e2.chunk.css",
-    "main.js": "/sumitsaurav143/todolist.git/static/js/main.21bb3887.chunk.js",
-    "main.js.map": "/sumitsaurav143/todolist.git/static/js/main.21bb3887.chunk.js.map",
-    "runtime-main.js": "/sumitsaurav143/todolist.git/static/js/runtime-main.a91e368e.js",
-    "runtime-main.js.map": "/sumitsaurav143/todolist.git/static/js/runtime-main.a91e368e.js.map",
-    "static/js/2.0dbb3ef3.chunk.js": "/sumitsaurav143/todolist.git/static/js/2.0dbb3ef3.chunk.js",
-    "static/js/2.0dbb3ef3.chunk.js.map": "/sumitsaurav143/todolist.git/static/js/2.0dbb3ef3.chunk.js.map",
-    "index.html": "/sumitsaurav143/todolist.git/index.html",
-    "static/css/main.e10241e2.chunk.css.map": "/sumitsaurav143/todolist.git/static/css/main.e10241e2.chunk.css.map",
-    "static/js/2.0dbb3ef3.chunk.js.LICENSE.txt": "/sumitsaurav143/todolist.git/static/js/2.0dbb3ef3.chunk.js.LICENSE.txt",
-    "static/media/logo.dfae1499.png": "/sumitsaurav143/todolist.git/static/media/logo.dfae1499.png"
+    "main.css": "/sumitsaurav143/todolist/static/css/main.e10241e2.chunk.css",
+    "main.js": "/sumitsaurav143/todolist/static/js/main.21bb3887.chunk.js",
+    "main.js.map": "/sumitsaurav143/todolist/static/js/main.21bb3887.chunk.js.map",
+    "runtime-main.js": "/sumitsaurav143/todolist/static/js/runtime-main.882b3098.js",
+    "runtime-main.js.map": "/sumitsaurav143/todolist/static/js/runtime-main.882b3098.js.map",
+    "static/js/2.0dbb3ef3.chunk.js": "/sumitsaurav143/todolist/static/js/2.0dbb3ef3.chunk.js",
+    "static/js/2.0dbb3ef3.chunk.js.map": "/sumitsaurav143/todolist/static/js/2.0dbb3ef3.chunk.js.map",
+    "index.html": "/sumitsaurav143/todolist/index.html",
+    "static/css/main.e10241e2.chunk.css.map": "/sumitsaurav143/todolist/static/css/main.e10241e2.chunk.css.map",
+    "static/js/2.0dbb3ef3.chunk.js.LICENSE.txt": "/sumitsaurav143/todolist/static/js/2.0dbb3ef3.chunk.js.LICENSE.txt",
+    "static/media/logo.dfae1499.png": "/sumitsaurav143/todolist/static/media/logo.dfae1499.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a91e368e.js",
+    "static/js/runtime-main.882b3098.js",
     "static/js/2.0dbb3ef3.chunk.js",
     "static/css/main.e10241e2.chunk.css",
     "static/js/main.21bb3887.chunk.js"
